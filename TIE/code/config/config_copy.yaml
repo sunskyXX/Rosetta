@@ -1,0 +1,31 @@
+network:
+  name: resnet18
+
+  # Specify a folder containing a pre-trained model to fine-tune. If training from scratch, pass None.
+  fine_tune_from: 'resnet-18_40-epochs'
+
+  projection_head:
+    mlp_hidden_size: 512
+    projection_size: 128
+
+data_transforms:
+  s: 1
+  input_shape: (10,10,3)
+
+trainer:
+  batch_size: 256
+  m: 0.996 # momentum update
+  checkpoint_interval: 5000
+  max_epochs: 40
+  num_workers: 4
+
+optimizer:
+  params:
+    lr: 0.03
+    momentum: 0.9
+    weight_decay: 0.0004
+
+TCP:
+  lossRate_max: 0.4
+  attachRate_max: 0.6
+  nagle: 'open'
