@@ -7,10 +7,12 @@ Note:
 
 - Total cleaned data for traffic augmentation and well-trained TIE: [Link](https://drive.google.com/drive/folders/1WXfdj6egfa593sgGWvoNHfULnWOvKeUY?usp=sharing).
 
-- The code for training Rosetta is in `TIE/TIE-code`.
+- The code for training Rosetta is in `/TIE/TIE-code`.
 
-- The partial data for traffic augmentation is in `TIE/TIE-data`.
+- The partial data for traffic augmentation is in `/TIE/TIE-data`.
 
-- The partial website traffic for evaluation is in `test-data/test-web/`.
+- The partial website traffic for evaluation is in `/test-data/test-web/`.
 
-- The partial application traffic for evaluation is in `test-data/test-app/`.
+- The partial application traffic for evaluation is in `/test-data/test-app/`.
+
+- The code of models (CNN, DF, FS-Net, LSTM, SDAE and Transformer) is shown in `/`
