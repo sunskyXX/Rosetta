@@ -1,7 +1,7 @@
 # Rosseta
 The Experiemental code for Rosseta
 
--As there is huge traffic for all our experiments (~70 GB) and the related privacy issues, we upload the partial traffic in Github that can still reproduce similar results by running the test on a small scale. Researchers can also contact us via <moonight_flicker@outlook.com> to download the whole pcap files after they sign the agreement on preventing data misusing and privacy leakage. 
+As there is huge traffic for all our experiments (~70 GB) and the related privacy issues, we upload the partial traffic in Github that can still reproduce similar results by running the test on a small scale. Researchers can also contact us via <moonight_flicker@outlook.com> to download the whole pcap files after they sign the agreement on preventing data misusing and privacy leakage. 
 
 Note:
 
