@@ -15,4 +15,4 @@ Note:
 
 - The code of models (CNN, DF, FS-Net, LSTM, SDAE and Transformer) is shown in `/`
 
-- The cleaned data for traffic augmentation and well-trained TIE: [Link](https://drive.google.com/drive/folders/1WXfdj6egfa593sgGWvoNHfULnWOvKeUY?usp=sharing). Researchers can contact us via <moonight_flicker@outlook.com> to download the entire pcap files after signing the agreement on preventing data misusing and privacy leakage. 
+- The cleaned data for traffic augmentation and well-trained TIE: [Link](https://drive.google.com/drive/folders/1WXfdj6egfa593sgGWvoNHfULnWOvKeUY?usp=sharing). 
